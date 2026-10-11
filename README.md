@@ -7,32 +7,37 @@ A fixed C# .NET 4.8 desktop application for managing library books, members, bor
 ## Screenshots
 
 ### Manage Books
-![Manage Books](screenshots/manage_books.png)
+<img width="911" height="618" alt="Screenshot 2026-10-10 172118" src="https://github.com/user-attachments/assets/3d87477c-b4ae-40b6-9965-51b9a8c96f54" />
 
 Add, update, delete, and search books by title, author, publisher, or category.
 
 ### Borrow Records
-![Borrow Records](screenshots/borrow_records.png)
+<img width="1031" height="663" alt="Screenshot 2026-10-10 172137" src="https://github.com/user-attachments/assets/77dfff1d-716d-4d6e-a8a6-2ff31446e366" />
+
 
 Track borrowed books, penalties, return dates, and timer status for all users.
 
 ### Manage Users
-![Manage Users](screenshots/manage_users.png)
+<img width="1033" height="661" alt="Screenshot 2026-10-10 172200" src="https://github.com/user-attachments/assets/1e8ceb8e-38c1-4e9d-87e6-66ef46ec91a6" />
+
 
 Register new members, set roles (Admin / Student), and manage user accounts.
 
 ### Timer & Penalty Alert
-![Timer Penalty](screenshots/timer_penalty.png)
+<img width="428" height="165" alt="Screenshot 2026-10-10 172230" src="https://github.com/user-attachments/assets/0a3b6216-a94e-4ca5-8c9c-fede8b0fc171" />
+
 
 When the borrow timer expires, a penalty is applied automatically (e.g., 20.00 Taka for 2 books).
 
 ### Student Dashboard — Books & Borrowed
-![Student Dashboard Books](screenshots/student_dashboard_1.png)
+<img width="1236" height="693" alt="Screenshot 2026-10-10 172303" src="https://github.com/user-attachments/assets/94f992cb-721f-4c84-85b1-897f4dc1c18b" />
+
 
 Students can view all available books, search by title or author, and see borrowed records.
 
 ### Student Dashboard — Timer Expired
-![Student Dashboard Timer](screenshots/student_dashboard_2.png)
+<img width="1249" height="694" alt="Screenshot 2026-10-10 172314" src="https://github.com/user-attachments/assets/f24a07b5-56f8-41b1-bc3b-9004cedb2a1f" />
+
 
 Borrowed books show status, penalties applied, and timer status directly in the dashboard.
 
