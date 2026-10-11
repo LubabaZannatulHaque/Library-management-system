@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|d:\\versity\\5th semester\\c# project\\lms\\lms\\librarymanagementsystem\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|solutionrelative:dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|solutionrelative:studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|solutionrelative:studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|solutionrelative:manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\managebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|solutionrelative:managebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\borrowrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{004CD9DF-26DB-4EFC-9031-49E2F19EDFD8}|LibraryManagementSystem.csproj|solutionrelative:borrowrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LibraryManagementSystem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1113,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\AdminDashboard.cs",
+              "RelativeToolTip": "AdminDashboard.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:39:45.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\AdminDashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:02:51.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageUsers.cs [Design]",
+              "DocumentMoniker": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\ManageUsers.cs",
+              "RelativeDocumentMoniker": "ManageUsers.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\ManageUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:35:28.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\StudentDashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:40:38.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\LogIn.cs",
+              "RelativeDocumentMoniker": "LogIn.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:20:58.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess.cs",
+              "ToolTip": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\DataAccess.cs",
+              "RelativeToolTip": "DataAccess.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:12:04.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageBooks.cs [Design]",
+              "DocumentMoniker": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\ManageBooks.cs",
+              "RelativeDocumentMoniker": "ManageBooks.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\ManageBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:57:55.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDashboard.cs",
+              "DocumentMoniker": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "StudentDashboard.cs",
+              "ToolTip": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\StudentDashboard.cs",
+              "RelativeToolTip": "StudentDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:39:10.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BorrowRecords.cs [Design]",
+              "DocumentMoniker": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\BorrowRecords.cs",
+              "RelativeDocumentMoniker": "BorrowRecords.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\BorrowRecords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T18:01:26.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryManagementSystem",
+              "DocumentMoniker": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.csproj",
+              "ToolTip": "D:\\VERSITY\\5th semester\\C# Project\\LMS\\LMS\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeToolTip": "LibraryManagementSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-19T16:14:49.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
